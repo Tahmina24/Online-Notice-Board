@@ -1,0 +1,226 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Requirement Specification for Online Notice Board
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\size large
+\color blue
+Notice Board
+\end_layout
+
+\begin_layout Quotation
+A notice board is a place where people can leave public message.
+ 
+\end_layout
+
+\begin_layout Quotation
+Online Notice board is web application which engaged in providing up-to-date
+ articles and notice and other information's for all user or student associated
+ with the particular campus or department.
+ The paper aims at, how the online notice board can improve the efficiency
+ of the student when it comes to gaining the information from the college.
+ Online notice board is one of the applications to improve the usage of
+ notice board of the university by making it available online.
+ This web application helps the students to retrieve all the notices and
+ articles through the cell phones , laptops and computers.
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+\shape italic
+\size large
+\color brown
+Advantage
+\end_layout
+
+\begin_layout Itemize
+It isn't required to going at University Notice board see information regariding
+ to any event or advertise or a message.
+\end_layout
+
+\begin_layout Itemize
+The university easily posts all types of message on the notice board.
+\end_layout
+
+\begin_layout Itemize
+Students can easily go through the notices the through their logins.
+\end_layout
+
+\begin_layout Itemize
+The management authorities can automatically set to active/deactive a given
+ notice for a given time period thus thus helping in authorimizing the posting
+ and removal of notices after the given time period.
+\end_layout
+
+\begin_layout Itemize
+The management authorities can automatically set to active/deactive the
+ notice incase the university/department wants to remove the notice bearing
+ wrong message.
+\end_layout
+
+\begin_layout LyX-Code
+
+\family roman
+\series bold
+\shape italic
+\size large
+\color brown
+Disadvantage
+\end_layout
+
+\begin_layout Itemize
+It is a wasting a time also.
+\end_layout
+
+\begin_layout Itemize
+To see notice students or user can require register themselves, otherwise
+ they will be not able to see notice.
+\end_layout
+
+\begin_layout LyX-Code
+
+\family roman
+\series bold
+\shape italic
+\size large
+\color brown
+Perform Requirement Gathering
+\end_layout
+
+\begin_layout Itemize
+Do you need the notice on the web based online notice board?
+\end_layout
+
+\begin_layout Itemize
+How often do you read notice from the physical notice board?
+\end_layout
+
+\begin_layout Itemize
+In your opinion the web interface is?
+\end_layout
+
+\begin_layout Itemize
+In your opinion moving from the paper based and locations restricted model
+ to the web based model is good or bad?
+\end_layout
+
+\begin_layout Itemize
+Should the web based notice board replicate the information from the paper
+ based version or should not it be easy to update notice by user?
+\end_layout
+
+\begin_layout Itemize
+How does posting notices in a website compare to posting then in the physical
+ notice board?
+\end_layout
+
+\begin_layout Itemize
+In your opinion how can we make the notice posting process an easy and time
+ saving one?
+\end_layout
+
+\begin_layout Itemize
+In your opinion how this online Notice Board can be improved?
+\end_layout
+
+\begin_layout LyX-Code
+
+\family roman
+\series bold
+\shape italic
+\size large
+\color brown
+Specification on protyping model
+\end_layout
+
+\begin_layout Quotation
+A customer define a set of general objects for software.
+ but does not identity detailed requirements for functions and features.
+ In other cases the developers may be ensure of the efficiency of an algorithm.
+\end_layout
+
+\begin_layout Quotation
+the adapt ability of an operating system or the form that human machine
+ interaction should take.
+ The prototype paradism assists you and other stakeholders to better understand
+ what is to be built when requirements are fuzzy.
+\end_layout
+
+\end_body
+\end_document

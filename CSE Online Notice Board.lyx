@@ -1,0 +1,255 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+CSE Online Notice Board
+\end_layout
+
+\begin_layout Standard
+For different University, there has different time schedule notice board
+ for the student which may be arranged as:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\size large
+\color blue
+It is for the university of Daffodill International University
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Title Publish Date Hits Updated CSE Class Routine for Summer 2018 (Version
+ 5) 31 May, 2018 140 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Updated Msc Course Offer Summer 2018 (Latest) 28 May, 2018 85 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Updated Final Improvement/Overlap Exam Routine of Spring 2018 24 May, 2018
+ 347 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Title Defense Registration Notice and Instructions Summer 2018 22 May, 2018
+ 334 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+CSE_Final_Improvement_ Exam_Routine_Spring_2018 17 May, 2018 806 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Updated Routine for Summer 2018 (EVE) V4 17 May, 2018 539
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Updated Routine for Summer 2018 (DAY) V4 17 May, 2018 1710
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Class Schedule of CSE During the Month of Holy Ramadan 15 May, 2018 1426
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Updated Course Offer M.Sc Summer- 2018 15 May, 2018 96
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Course offer to M.Sc students [Summer 2018] 14 May, 2018 110 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Update M.Sc.
+ Course Offer Summer 2018
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\size large
+\color blue
+Notice Board for Jahangirnagar University
+\end_layout
+
+\begin_layout Standard
+The study of computer programming itself investigates various aspects of
+ the use of programming languages and complex systems, and human-computer
+ interaction focuses on the challenges in making computers and computations
+ useful, usable, and universally accessible to humans.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\color brown
+Academic Programs
+\end_layout
+
+\begin_layout Standard
+Bachelor of Science (B.Sc.) 
+\end_layout
+
+\begin_layout Standard
+Master of Science (M.Sc.) 
+\end_layout
+
+\begin_layout Standard
+Master of Philosophy (M.Phill.)
+\end_layout
+
+\begin_layout Standard
+Doctor of Philosophy (Ph.D.) PMSCS 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\color brown
+All Faculty
+\end_layout
+
+\begin_layout Standard
+Dr.
+ Mohammad Hanif Ali, B.Sc(JU), MSc.(JU), PhD(UK) 
+\end_layout
+
+\begin_layout Standard
+Dr.
+ Jugal Krishna Das, B.Sc(Donetsk), MSc.(Donetsk), PhD(Kiev) 
+\end_layout
+
+\begin_layout Standard
+Dr.
+ Akram Hossain, B.Sc(BUET), MSc.(Japan), PhD(Japan) 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape italic
+\size large
+\color blue
+Notice for Dhaka University
+\end_layout
+
+\begin_layout Standard
+About the Course Digital literacy is a prerequisite to make an organization
+ successful.
+ Top and mid-level employees are the core workforces to materialize the
+ vision of an organization.
+ However, these workforces lack required computing skills.
+ The mission of our ICT professional course is to enhance their computing
+ skills so that they can contribute with their maximum potential.
+ As part of the Digital Bangladesh program and Computer Literacy among the
+ people of Bangladesh, Department of Computer Science and Engineering, Universit
+y of Dhaka (CSEDU) is currently running a few professional courses.
+ This professional course program comprises of courses that are either essential
+ for IT literacy or very much demanding for the current IT education.
+ List of currently offered courses include: Android Mobile Application Developme
+nt Web Application Development Database Management and Administration Fundamenta
+ls of Object Oriented Programming using Java The above professional courses
+ are offered to graduates as well as individuals pursuing an undergraduate
+ degree or completed HSC.
+ The classes are held on Sunday to Saturday from 5:30 PM – 8:30 PM, generally.
+ In weekends (Friday and Saturday), classes may be scheduled at other times.
+ There are 72 hours of lectures for each of the courses with a course duration
+ of 3 months.
+\end_layout
+
+\begin_layout Standard
+The course fees range from 20000/- BDT to 25000/- BDT depending on the courses.
+ To know more about the courses, syllabus and upcoming batches please visit
+ here or contact department office during office hour (9 AM – 4 PM) during
+ the weekdays.
+\end_layout
+
+\end_body
+\end_document
